@@ -1,0 +1,14 @@
+Before noon today. I was brain storming on how I wanted to do my project. I came up with my first page with just my heading and at the very end i want an arrow
+to lead to the next page. My next page will be the about me page and i want two arrows at the bottom. so for the two arrows at the bottom will direct to the third page.
+One arrow will lead to the skills section and the other arrow will lead to my prjexts. Then i will somehow make just make one arrow to lead to the other pages.
+
+
+
+
+
+
+
+
+
+
+Afternoon. I put text in my html files. I also linked my first 2 pages together and i put an image on my first html file.
