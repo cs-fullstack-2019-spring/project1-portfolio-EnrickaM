@@ -1,7 +1,17 @@
 body{
-    background-color: gold;
+    background-image: url("montylov-563288-unsplash.jpg");
+
 }
 h1{
     text-align: center;
+    /*margin-top: 250px;*/
+    color: ivory;
+
+}
+p{
     margin-top: 250px;
+    display: grid;
+    grid-template-columns: 1fr  1fr 1fr ;
+    color: aliceblue;
+    font-size: x-large;
 }
