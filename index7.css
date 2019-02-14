@@ -1,0 +1,12 @@
+body{
+    background-image: url("imageedit_7_2918985474.png");
+    /*!*background-repeat: no-repeat;*!*/
+    /*!*background-position: center;*!*/
+    /*!*background-size: auto;*!*/
+    text-align: right;
+}
+
+#contact-form-id {
+    margin-left: auto;
+    margin-right: auto;
+}

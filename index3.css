@@ -1,3 +1,9 @@
 body{
-    background: black;
+    background-image: url("nick-hidalgo-194770-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: 50px;
+    background-size: auto;
+}
+h1{
+    text-align: center;
 }
