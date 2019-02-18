@@ -1,5 +1,5 @@
 body{
-    background-image: url("imageedit_7_2918985474.png");
+    background-image: url("markus-spiske-1210595-unsplash.jpg");
     /*!*background-repeat: no-repeat;*!*/
     /*!*background-position: center;*!*/
     /*!*background-size: auto;*!*/
@@ -11,5 +11,9 @@ body{
     margin-right: auto;
 }
 h1{
-    color: orangered;
+    color: black;
+    text-align: center;
+    /*margin-top: 550px;*/
+    font-size: 50px;
+    font-family: 'Felipa', cursive;
 }
