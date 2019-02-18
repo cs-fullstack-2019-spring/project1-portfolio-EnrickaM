@@ -1,16 +1,26 @@
 h1{
     font-family: 'Felipa', cursive;
+    text-align: center;
 }
-body{
-    background-image: url("david-wirzba-1216179-unsplash.jpg");
-}
+/*body{*/
+    /*background-image: url("david-wirzba-1216179-unsplash.jpg");*/
+/*}*/
 p{
     text-align: center;
     font-size: x-large;
     margin-bottom: 125px;
 }
-h1{
-    text-align: center;
-    font-size: 350px;
+/*h1{*/
+    /*text-align: center;*/
+    /*font-size: 350px;*/
 
+/*}*/
+body{
+    margin:10%;
+    /*background-color: deepskyblue;*/
+    /*filter: brightness(20%);*/
+}
+p{
+    color: deepskyblue;
+    font-family: 'Felipa', cursive;
 }

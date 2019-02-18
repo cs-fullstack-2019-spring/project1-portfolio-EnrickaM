@@ -1,19 +1,23 @@
-body{
-    background-image: url("markus-spiske-1210595-unsplash.jpg");
-    /*!*background-repeat: no-repeat;*!*/
-    /*!*background-position: center;*!*/
-    /*!*background-size: auto;*!*/
-    text-align: right;
-}
+/*body{*/
+    /*background-image: url("markus-spiske-1210595-unsplash.jpg");*/
+    /*!*!*background-repeat: no-repeat;*!*!*/
+    /*!*!*background-position: center;*!*!*/
+    /*!*!*background-size: auto;*!*!*/
+    /*text-align: right;*/
+/*}*/
 
 #contact-form-id {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 30%;
+    /*margin-right: auto;*/
+    /*text-align: center;*/
 }
 h1{
-    color: black;
+
     text-align: center;
     /*margin-top: 550px;*/
     font-size: 50px;
     font-family: 'Felipa', cursive;
+}
+body{
+    background-color: aquamarine;
 }

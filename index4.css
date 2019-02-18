@@ -1,30 +1,17 @@
-body{
-    background-image: url("matt-ragland-853708-unsplash.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+h1{
+    text-align: center;
+    font-family: 'Felipa', cursive;
+    font-size: xx-large;
 }
 
-/*#container{*/
-    /*display: grid;*/
-    /*grid-template-columns: 1fr 230px 1fr;*/
-    /*grid-template-rows: 200px 200px 200px;*/
-    /*!*grid-template-areas:*!*/
-    /*!*"hgsch hgsch"*!*/
-    /*!*"college college"*!*/
-    /*!*!*"trade trade"*!*!*/
-/*}*/
-/*.hgsch{*/
-    /*grid-area: hgdch;*/
-/*}*/
-h1{
-    text-align:left;
-    color: darkslateblue;
-    font-size: 56px;
+h2{
+    text-align: center;
     font-family: 'Felipa', cursive;
+    font-size: xx-large;
 }
 p{
-    text-align:left;
-    color: black;
-    font-size: 55px;
+    margin-left:450px;
+    font-size: large;
+    font-family: 'Felipa', cursive;
+    color: deepskyblue;
 }
