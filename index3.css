@@ -1,9 +1,47 @@
 body{
-    background-image: url("nick-hidalgo-194770-unsplash.jpg");
-    background-repeat: no-repeat;
-    background-position: 50px;
-    background-size: auto;
+    background-image: url("imageedit_3_5343750942.png");
+    /*background-repeat: no-repeat;*/
+    /*background-position: 50px;*/
+    /*background-size: auto;*/
 }
 h1{
     text-align: center;
+    color: orangered;
+    font-family: 'Felipa', cursive;
 }
+h2{
+    color:orangered;
+}
+/*.row{*/
+    /*height: 100px;*/
+    /*margin-top: 120px;*/
+
+/*}*/
+/*.row2{*/
+    /*height:100px;*/
+    /*margin-bottom: 550px;*/
+/*}*/
+.change{
+    margin-left: 440px;
+    margin-bottom: 300px;
+    height: 287px;
+}
+/*}*/
+/*.row{*/
+
+    /*height:100px;*/
+/*}*/
+/*.row{*/
+    /*height:100px;*/
+/*}*/
+/*.row{*/
+    /*height:100px;*/
+    /*marign-left:250px;*/
+/*}*/
+/*.row2{*/
+    /*height:100px;*/
+    /*marging-left:450px*/
+/*}*/
+/*img{*/
+    /*height: 88px;*/
+/*}*/

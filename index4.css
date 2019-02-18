@@ -1,3 +1,30 @@
 body{
-background-image: url("nick-hidalgo-194770-unsplash.jpg");
+    background-image: url("martin-adams-1062002-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/*#container{*/
+    /*display: grid;*/
+    /*grid-template-columns: 1fr 230px 1fr;*/
+    /*grid-template-rows: 200px 200px 200px;*/
+    /*!*grid-template-areas:*!*/
+    /*!*"hgsch hgsch"*!*/
+    /*!*"college college"*!*/
+    /*!*!*"trade trade"*!*!*/
+/*}*/
+/*.hgsch{*/
+    /*grid-area: hgdch;*/
+/*}*/
+h1{
+    text-align:left;
+    color: orangered;
+    font-size: xx-large;
+    font-family: 'Felipa', cursive;
+}
+p{
+    text-align:left;
+    color: white;
+    font-size: xx-large;
 }

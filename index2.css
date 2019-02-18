@@ -1,5 +1,5 @@
 body{
-    background-image: url("clem-onojeghuo-207792-unsplash.jpg");
+    background-image: url("imageedit_5_5905361387.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -7,19 +7,40 @@ body{
 }
 h1{
     text-align: center;
-    /*margin-top: 250px;*/
-    color: ivory;
+    margin-bottom: 250px;
+    color: white;
+    font-family: 'Felipa', cursive;
 
 }
-p{
-    margin-bottom: 200px;
+/*p1{*/
+    /*margin-bottom: 200px;*/
+    /*display: grid;*/
+    /*grid-template-columns: 1fr;*/
+    /*grid-template-rows: 250px;*/
+    /*grid-template-areas:"p1 p2";*/
+    /*color: aliceblue;*/
+    /*font-size: x-large;*/
+/*}*/
+/*{*/
+    /*color: ivory;*/
+/*}*/
+
+#parentgrid {
     display: grid;
-    grid-template-columns: 1fr  1fr 1fr ;
+    grid-template-columns: 1fr;
+    grid-template-rows: 325px;
+    grid-template-areas: "p1";
+"p2";
     color: aliceblue;
-    font-size: x-large;
+    font-size: xx-large;
 }
-img{
-    color: ivory;
+.row{
+    height:35px;
+    marign-left:250px;
+}
+.row2{
+    height:35px;
+    marging-left:300px
 }
 /*.right{*/
     /*!*margin-top: 550px;*!*/
