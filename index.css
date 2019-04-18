@@ -7,17 +7,19 @@
     /*!*grid-template-columns: 1fr 1fr 1fr ;*!*/
 /*}*/
 body{
-    background-color: white;
-    background-image: url("eblue.png");
-    /*background-repeat: no-repeat;*/
+    background-color: black;
+    /*background-image: url("farouk-mechedal-671093-unsplash.jpg");*/
+    background-repeat: no-repeat;
 }
 h1 {
     text-align: center;
-    margin-top: 30%;
+    margin-top: 20%;
     font-weight: inherit;
-    font-size: 65px;
-    font-family: 'Felipa', cursive;
-    color:black;
+    font-size: 55px;
+    font-family: 'Cormorant Unicase', serif;
+    color:snow;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
 }
 img{
     margin-left: 750px;
@@ -26,10 +28,11 @@ img{
 }
 button{
     border: none;
-    background-color: aquamarine;
+    background-color: black;
     /*display: grid;*/
     /*grid-auto-columns: 1fr 1fr 1fr 1fr 1fr 1fr;*/
     font-size: large;
+    color:white;
 }
 #content{
     text-align: center;
