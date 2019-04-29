@@ -1,11 +1,13 @@
 body{
-    /*background-image: url(");*/
+    background-image: url("181030-signify-mighty-lights-hernando-desoto-bridge-over-mississippi-river.jpg");
     /*background-repeat: no-repeat;*/
     /*background-position: center;*/
     /*background-size: cover;*/
     margin: 10%;
     background-color: black;
-
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: revert;
 }
 .animated{
     text-align: center;
@@ -42,7 +44,7 @@ body{
 }
 p1{
     margin-bottom: 400px;
-    color: snow;
+    color: green;
     font-family: 'Cormorant Unicase', serif;
 
 
@@ -68,4 +70,7 @@ button{
 }
 h1{
     text-align: center;
+}
+.memphis{
+    margin-bottom: 12px;
 }

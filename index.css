@@ -7,17 +7,21 @@
     /*!*grid-template-columns: 1fr 1fr 1fr ;*!*/
 /*}*/
 body{
-    background-color: black;
+    background-image: url("bbpd.jpg");
+    text-align: center;
+    /*background-color: black;*/
     /*background-image: url("farouk-mechedal-671093-unsplash.jpg");*/
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
+     background-position: center;
+    /*background-size: cover;*/
 }
 h1 {
     text-align: center;
-    margin-top: 20%;
+    margin-top: 30%;
     font-weight: inherit;
-    font-size: 55px;
+    font-size: 75px;
     font-family: 'Cormorant Unicase', serif;
-    color:snow;
+    color:green;
     display: grid;
     grid-template-columns: repeat(1,1fr);
 }

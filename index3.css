@@ -1,3 +1,6 @@
+body{
+    background: black;
+}
 h1{
     text-align: center;
 }
@@ -18,7 +21,7 @@ h1{
     display: grid;
     margin: 50px;
     font-size: x-large;
-    color: deepskyblue;
+    color: green;
 }
 section{
     margin:200px
@@ -29,48 +32,74 @@ section{
 h2{
     text-align: center;
     font-family: 'Felipa', cursive;
+    color: green;
 }
 h1{
-    color: deepskyblue;
+    color: green;
     font-family: 'Felipa', cursive;
 }
 .con{
     margin-left: 650px;
+    color: red;
 }
 .bs{
     margin-left: 650px;
+    color:yellow;
 }
 .while{
     margin-left: 650px;
+    color:red;
 }
 .rays{
     margin-left: 650px;
+    color: yellow;
 }
 .cond{
     margin-left: 650px;
+    color:red;
 }
 .switch{
     margin-left: 650px;
+    color: yellow;
 }
 .map{
     margin-left: 650px;
+    color: red;
 }
 .fun{
     margin-left: 650px;
+    color: yellow;
 }
 .loops2{
     margin-left: 650px;
+    color: red;
 }
 .co{
     margin-left: 650px;
+    color: yellow;
 
 }
 .base{
     margin-left: 650px;
+    color: red;
 }
 .selector{
     margin-left: 650px;
+    color: yellow;
 }
 .media{
     margin-left: 650px;
+    color: red;
+}
+.navabar {
+    text-align: center;
+    color: black;
+}
+button{
+    border: none;
+    background-color: black;
+    /*display: grid;*/
+    /*grid-auto-columns: 1fr 1fr 1fr 1fr 1fr 1fr;*/
+    font-size: large;
+    color:white;
 }
